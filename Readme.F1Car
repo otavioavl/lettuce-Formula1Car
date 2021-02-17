@@ -5,12 +5,9 @@ Simulação do código lettuce, utilizando Formula 1 Car.
     Arquivo zipado do código fonte: https://drive.google.com/drive/folders/1KqnJguYv4kP3fOfWW8-QU0R7nqsAHqLY?usp=sharing
 
     Ordem:
-        [1] Planejar o obstáculo e reservatorio a ser estudado. Deve-se utilizar o Inkscape para criar esses objetos e o ImageJ para binarizar a imagem. A seguir você deve usar a
-        o codigo em phyton (https://stackoverflow.com/questions/55166930/image-to-0-1-text) usando a biblioteca math. and binarize. para transformação em "0 e 1" "Black and White", 
-        ou o link em web (https://www.dcode.fr/binary-image)
+        [1] Planejar o obstáculo e reservatorio a ser estudado. Deve-se utilizar o Inkscape para criar esses objetos e o ImageJ para binarizar a imagem. A seguir você deve usar a o codigo em phyton (https://stackoverflow.com/questions/55166930/image-to-0-1-text) usando a biblioteca math. and binarize. para transformação em "0 e 1" "Black and White", ou o link em web (https://www.dcode.fr/binary-image)
 
-        [2] O código lettuce-test (Formula1Car) será utilizado para projetar as simulações de acordo com os objetos especificados e criado no [1].
-        O NUMBER_THREDS =1 (NÃO FUNCIONA PARA VALORES DIFERENTES)
+        [2] O código lettuce-test (Formula1Car) será utilizado para projetar as simulações de acordo com os objetos especificados e criado no [1]. O NUMBER_THREDS =1 (NÃO FUNCIONA PARA VALORES DIFERENTES)
 
 
     É permitido a utilização de imagens (obstáculos ou reservátorios) de dimensões alternadas até um maximo de 550x125, porém eles devem ser criados em [1]. 
